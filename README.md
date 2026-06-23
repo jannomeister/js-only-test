@@ -29,18 +29,6 @@ npx serve .
 
 Then open the URL shown in the terminal (usually `http://localhost:3000`).
 
-Other options:
-
-```bash
-python -m http.server 8000
-# open http://localhost:8000
-```
-
-```bash
-npx http-server .
-# open http://localhost:8080
-```
-
 ## Project Files
 
 | File         | Purpose                          |
